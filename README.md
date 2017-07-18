@@ -2,7 +2,7 @@
 
 [original source](http://bootstrapdojo.com/rest-api-laravel-5-4-with-token-authentication/)
 
-**! If the link is not working, see folder 'tutorial' !**
+**! If the link is not working, see folder '[tutorial](tutorial/)' !**
 
 
 ## example token for API
