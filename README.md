@@ -1,4 +1,4 @@
-# Basic example for token api created with Laravel.
+# Basic example for token api created with Laravel 5.4
 
 [original source](http://bootstrapdojo.com/rest-api-laravel-5-4-with-token-authentication/)
 
